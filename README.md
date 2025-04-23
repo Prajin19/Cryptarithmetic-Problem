@@ -74,6 +74,8 @@ End<br>
 <hr>
 
 <h2>Program :</h2>
+
+
 <pre><code>
 from itertools import permutations
 def solve_cryptarithmetic():
@@ -104,8 +106,11 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+
 </code></pre>
 
+
+<img src="image-1.png" alt="pro">
 
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
